@@ -20,64 +20,45 @@
 
 ---
 
-#### Languages
+#### 📊 GitHub Stats
 
-<!-- github-stats:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Eysnter&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- github-stats:end -->
 
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/shell/shell.png" alt="shell" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xml/xml.png" alt="xml" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- languages:end -->
+<br clear="both"/>
 
-#### Frameworks and Tools
+#### 🛠 Languages
 
-<!-- tools:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mybatis/mybatis.png" alt="mybatis" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="maven" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- tools:end -->
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh-CN/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)](https://en.wikipedia.org/wiki/SQL)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=ffffff)](https://en.wikipedia.org/wiki/Shell_script)
 
-#### Interested
+#### ⚙️ Frameworks & Tools
 
-<!-- interested:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-cloud/spring-cloud.png" alt="spring-cloud" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elasticsearch/elasticsearch.png" alt="elasticsearch" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rabbitmq/rabbitmq.png" alt="rabbitmq" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nginx/nginx.png" alt="nginx" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- interested:end -->
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=ffffff)](https://spring.io/projects/spring-boot)
+[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/)
+[![MyBatis Plus](https://img.shields.io/badge/-MyBatis%20Plus-311C87?style=flat-square&logo=mybatis&logoColor=ffffff)](https://mybatis.plus/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
+[![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=ffffff)](https://maven.apache.org/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)](https://www.linux.org/)
+[![JetBrains IDEA](https://img.shields.io/badge/-JetBrains%20IDEA-000000?style=flat-square&logo=intellij%20idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 
-> 顺带一提，你是否也好奇这些列表是如何生成的？
-> 原模板作者写了一个脚本来自动生成它们，你可以看这里：[YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun/tree/master/scripts)。
+#### 🚀 Interested & Learning
+
+[![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/projects/spring-cloud)
+[![Spring Cloud Alibaba](https://img.shields.io/badge/-Spring%20Cloud%20Alibaba-FF6A00?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/projects/spring-cloud-alibaba)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://www.rabbitmq.com/)
+[![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+
+> 💡 以上图标来自开源项目 [GitHub 个人主页图标合集](https://github.com/LibreSpark/LibreBadges)，感谢作者的整理！
 
 ---
 
@@ -91,4 +72,7 @@
     <img src='https://img.shields.io/badge/Follow%20Me-Eysnter-blue?style=for-the-badge&logo=github'/>
   </a>
 </p>
->>>>>>> 8736dc3fb5504d2584e375ef33a020365fa8cf36
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

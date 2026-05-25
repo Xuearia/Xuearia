@@ -1,45 +1,3 @@
-<<<<<<< HEAD
-### Hi there, I'm Xuearia 👋
-
-[中文](./README.zh-CN.md)
-
-I am a Java Web learner from Shiyan, Hubei, China.
-I am focused on building practical web applications with Java, Spring Boot, MyBatis and MySQL.
-
-- 🌱 Learning: Java, Spring Boot, Spring MVC, MyBatis, Redis, Tomcat, HTML/CSS/JavaScript
-- 💻 Working on: Java Web practice projects and study demos
-- 📚 Passion: backend development, web architecture, clean code and practical learning
-- 📫 Contact: feel free to open an issue or follow me on GitHub
-
----
-
-#### GitHub Stats
-
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Xuearia&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true" />
-
-- 🧩 Location: Shiyan, Hubei, China
-- 🧠 Current focus: Java Web development and full-stack practices
-- 📁 GitHub: https://github.com/Xuearia
-
----
-
-#### Languages & tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png" alt="spring" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
-
----
-
-#### About this profile
-
-I use this profile to record learning progress, show practice projects, and connect with other developers.
-If you are also learning Java Web, let's learn together!
-=======
 ### 见字如面，我是 Rose Eysnter 👋
 
 [English](./README_EN.md) | 中文
@@ -52,7 +10,7 @@ If you are also learning Java Web, let's learn together!
 我喜欢开源和技术探索，希望用代码解决实际问题，并在这个过程中不断成长。
 我希望自己可以成为一个优秀的后端工程师，并创造出有价值的软件产品。
 
-右侧的是虚拟人物——[小云](https://github.com/YunYouJun/yun)，她将在虚拟世界中替我发声（模板致敬 [YunYouJun](https://www.yunyoujun.cn)）。
+右侧的是虚拟人物——[梓](baizhouzi.png)，她将在虚拟世界中替我发声（模板致敬 [YunYouJun](https://www.yunyoujun.cn)）。
 
 - 🔭 我当前在学习和实践一些 [Java Web 项目](https://github.com/Eysnter?tab=repositories)
   - 例如：基于 Spring Boot 的 RESTful API、MyBatis-Plus 数据持久层实践、以及各类后端基础组件的封装与学习。

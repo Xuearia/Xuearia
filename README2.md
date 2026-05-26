@@ -25,10 +25,6 @@
 </div>
 
 
-> Code analysis
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
 
 
 

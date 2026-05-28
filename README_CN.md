@@ -1,22 +1,22 @@
-### Nice to meet you, I'm Rose Eysnter 👋
+### 见字如面，我是 Rose Eysnter 👋
 
 [English](./README.md) | [中文](./README_CN.md)
 
 <img align="right" width="200" src="baizhouzi.png">
 
-I'm a Java Web learner from China, currently based in Shiyan, Hubei Province.
-I focus on backend tech stacks and web application development, striving to build stable and efficient server-side applications.
+我是一名来自中国的 Java Web 学习者，目前居住在湖北省十堰市。
+专注于后端技术栈与 Web 应用开发，致力于构建稳定、高效的服务端应用。
 
-I enjoy open source and technical exploration. I hope to solve real-world problems with code and keep growing along the way.
-My goal is to become an excellent backend engineer and create valuable software products.
+我喜欢开源和技术探索，希望用代码解决实际问题，并在这个过程中不断成长。
+我希望自己可以成为一个优秀的后端工程师，并创造出有价值的软件产品。
 
-The character on the right is [Azusa](https://github.com/Xuearia/Xuearia/blob/main/baizhouzi.png) from Blue Archive — one of my favorite virtual characters (template credit: [YunYouJun](https://www.yunyoujun.cn)).
+右侧的是蔚蓝档案——[梓](baizhouzi.png)，她是我喜欢的虚拟人物（模板致敬 [YunYouJun](https://www.yunyoujun.cn)）。
 
-- 🔭 I'm currently learning and practicing various [Java Web projects](https://github.com/Eysnter?tab=repositories)
-  - For example: RESTful APIs based on Spring Boot, MyBatis-Plus data persistence layer practice, and building & studying various backend foundational components.
-- 🌱 I'm diving deep into Java concurrent programming, JVM tuning, microservice architecture (Spring Cloud), and database optimization.
-- ❤️ I enjoy reading technical documentation, studying source code, drinking tea 🍵, and exploring the natural scenery around Shiyan 🏔️.
-- 💬 Feel free to ask me any public questions [here](https://github.com/Eysnter/Eysnter/issues).
+- 🔭 我当前在学习和实践一些 [Java Web 项目](https://github.com/Eysnter?tab=repositories)
+  - 例如：基于 Spring Boot 的 RESTful API、MyBatis-Plus 数据持久层实践、以及各类后端基础组件的封装与学习。
+- 🌱 我正在深入学习 Java 并发编程、JVM 调优、微服务架构（Spring Cloud）及数据库优化。
+- ❤️ 我喜欢阅读技术文档、研究源码、品茶 🍵，以及探索十堰周边的自然风光 🏔️。
+- 💬 欢迎在 [这里](https://github.com/Eysnter/Eysnter/issues) 问我任何可以公开的问题。
 
 ---
 
@@ -32,7 +32,7 @@ The character on the right is [Azusa](https://github.com/Xuearia/Xuearia/blob/ma
 
 #### 🛠 Languages
 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh-CN/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)](https://en.wikipedia.org/wiki/SQL)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://www.w3schools.com/css/)
@@ -62,14 +62,14 @@ The character on the right is [Azusa](https://github.com/Xuearia/Xuearia/blob/ma
 [![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
 
-> 💡 Badges above are from the open source project [LibreBadges](https://github.com/LibreSpark/LibreBadges) — thanks to the author!
+> 💡 以上图标来自开源项目 [GitHub 个人主页图标合集](https://github.com/LibreSpark/LibreBadges)，感谢作者的整理！
 
 ---
 
-You can find ways to contact me in the sidebar. Follow me to discover more interesting things.
+你可以在侧边栏找到联系我的方式，关注我以发现更多有趣的事物。
 
-If you like my projects or study notes, feel free to support me via [GitHub Sponsors](https://github.com/sponsors/Eysnter).
-I'll use it to buy cloud servers and technical books — and we can chat about tech too.
+如果你喜欢我的项目或学习笔记，欢迎通过 [GitHub Sponsors](https://github.com/sponsors/Eysnter) 支持我。
+我会用来购买云服务器、技术书籍，也可以和我进行技术交流。
 
 <p align="center">
   <a href="https://github.com/Eysnter">

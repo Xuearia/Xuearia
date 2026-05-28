@@ -22,13 +22,11 @@
 
 #### 📊 GitHub Stats
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Eysnter/Eysnter/blob/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Eysnter/Eysnter/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 <br clear="both"/>
 
